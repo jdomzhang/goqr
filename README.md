@@ -1,8 +1,5 @@
 # goqr
 [![GoDoc](https://godoc.org/github.com/jdomzhang/goqr?status.svg)](https://godoc.org/github.com/jdomzhang/goqr)
-[![Go Report Card](https://goreportcard.com/badge/github.com/jdomzhang/goqr)](https://goreportcard.com/report/github.com/jdomzhang/goqr)
-[![Build Status](https://travis-ci.org/jdomzhang/goqr.svg?branch=master)](https://travis-ci.org/jdomzhang/goqr)
-[![Coverall](https://coveralls.io/repos/github/jdomzhang/goqr/badge.svg?branch=master)](https://coveralls.io/github/jdomzhang/goqr)
 [![License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)](/LICENSE)
 [![Example](https://img.shields.io/badge/learn-example-brightgreen.svg)](/example)
 
