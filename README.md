@@ -1,8 +1,8 @@
 # goqr
-[![GoDoc](https://godoc.org/github.com/liyue201/goqr?status.svg)](https://godoc.org/github.com/liyue201/goqr)
-[![Go Report Card](https://goreportcard.com/badge/github.com/liyue201/goqr)](https://goreportcard.com/report/github.com/liyue201/goqr)
-[![Build Status](https://travis-ci.org/liyue201/goqr.svg?branch=master)](https://travis-ci.org/liyue201/goqr)
-[![Coverall](https://coveralls.io/repos/github/liyue201/goqr/badge.svg?branch=master)](https://coveralls.io/github/liyue201/goqr)
+[![GoDoc](https://godoc.org/github.com/jdomzhang/goqr?status.svg)](https://godoc.org/github.com/jdomzhang/goqr)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jdomzhang/goqr)](https://goreportcard.com/report/github.com/jdomzhang/goqr)
+[![Build Status](https://travis-ci.org/jdomzhang/goqr.svg?branch=master)](https://travis-ci.org/jdomzhang/goqr)
+[![Coverall](https://coveralls.io/repos/github/jdomzhang/goqr/badge.svg?branch=master)](https://coveralls.io/github/jdomzhang/goqr)
 [![License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)](/LICENSE)
 [![Example](https://img.shields.io/badge/learn-example-brightgreen.svg)](/example)
 
@@ -17,7 +17,7 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"github.com/liyue201/goqr"
+	"github.com/jdomzhang/goqr"
 	"image"
 	_ "image/jpeg"
 	_ "image/png"

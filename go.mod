@@ -1,4 +1,4 @@
-module github.com/liyue201/goqr
+module github.com/jdomzhang/goqr
 
 go 1.12
 

@@ -3,11 +3,12 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"github.com/liyue201/goqr"
 	"image"
 	_ "image/jpeg"
 	_ "image/png"
 	"io/ioutil"
+
+	"github.com/jdomzhang/goqr"
 )
 
 func recognizeFile(path string) {

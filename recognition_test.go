@@ -2,11 +2,12 @@ package goqr
 
 import (
 	"bytes"
-	"github.com/stretchr/testify/assert"
 	"image"
 	_ "image/jpeg"
 	_ "image/png"
 	"io/ioutil"
+
+	"github.com/stretchr/testify/assert"
 
 	"testing"
 )
@@ -56,18 +57,6 @@ func TestRecognize(t *testing.T) {
 		{
 			"example/testdata/005.png",
 			"https://github.com/",
-		},
-		{
-			"example/testdata/006.png",
-			"https://github.com/liyue201",
-		},
-		{
-			"example/testdata/007.png",
-			"https://github.com/",
-		},
-		{
-			"example/testdata/008.png",
-			"https://github.com/liyue201/goqr",
 		},
 	}
 	for _, testCase := range testCases {
